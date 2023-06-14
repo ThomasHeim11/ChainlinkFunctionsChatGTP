@@ -284,3 +284,5 @@ To manually trigger a request, use the command `npx hardhat functions-perform-up
 When on-chain traffic is high, transaction gas prices can spike unexpectedly. This may decrease the accuracy of the estimated requests costs or cause transactions to fail.
 In order to mitigate these problems, ensure your billing subscription balance has a sufficient buffer of two or more times the expected request cost in LINK.
 Additionally, you can manually set a hardcoded transaction gas price in the HardHat tooling by modifying the `gasPrice` parameter in the _networks.js_ config file for a particular network.
+
+[![Thomas HeimLinkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-heim11/)
