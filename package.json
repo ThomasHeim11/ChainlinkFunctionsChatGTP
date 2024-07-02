@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "@chainlink/env-enc": "^1.0.5",
-    "@openzeppelin/contracts": "4.8.3",
+    "@openzeppelin/contracts": "4.9.6",
     "@openzeppelin/contracts-upgradeable": "4.8.3",
     "axios": "^1.6.0",
     "crypto-js": "^4.2.0",
